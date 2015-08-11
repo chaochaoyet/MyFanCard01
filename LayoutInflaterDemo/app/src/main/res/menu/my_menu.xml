@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_add"
+        android:title="add"
+        android:icon="@drawable/ic_launcher">
+
+    </item>
+    <item
+        android:id="@+id/menu_wallaper"
+        android:title="wallaper"
+        android:icon="@drawable/ic_launcher">
+
+    </item>
+    <item
+        android:id="@+id/menu_gallery"
+        android:icon="@drawable/ic_launcher"
+        android:title="gallery">
+
+    </item>
+    <item
+        android:title="setting"
+        android:icon="@drawable/ic_launcher"
+        android:id="@+id/menu_setting">
+
+    </item>
+</menu>

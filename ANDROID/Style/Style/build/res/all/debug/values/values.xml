@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Style</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="string_A">应用myStyle_Text1</string>
+    <string name="string_B">应用myStyle_Text2</string>
+
+    <style name="myStyle_Text1">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">#80FF00</item>
+    </style>
+
+    <style name="myStyle_Text2">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">#80FF00</item>
+        <item name="android:fromAlpha">0.0</item>
+        <item name="android:toAlpha">0.0</item>
+    </style>
+
+</resources>

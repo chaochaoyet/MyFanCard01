@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mars_Zc_spinner</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="color_array">
+        <item>red</item>
+        <item>green</item>
+        <item>blue</item>
+        <item>yellow</item>
+        <item>white</item>
+        <item>black</item>
+    </string-array>
+</resources>

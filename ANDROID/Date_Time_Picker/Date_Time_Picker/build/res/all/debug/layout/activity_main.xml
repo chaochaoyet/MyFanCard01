@@ -1,0 +1,30 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+    <DatePicker
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/date_picker"
+        android:layout_gravity="center_horizontal"></DatePicker>
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/date_edit"
+        android:cursorVisible="false"
+        android:editable="false"></EditText>
+    <TimePicker
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/time_picker"></TimePicker>
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/time_edit"
+        android:cursorVisible="false"
+        android:editable="false"></EditText>
+
+
+    </LinearLayout>

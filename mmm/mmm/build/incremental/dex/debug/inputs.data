@@ -1,0 +1,18 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1425974426587 339 6de9d82da2628ccaa93dad1f7f5cdb1710964a8e C:\Users\chao\AndroidStudioProjects\mmm\mmm\build\classes\debug\com\example\mmm\BuildConfig.class
+1426037364632 463 5a2a127e6b4757841051c5b2b6bc3f1f0350c91c C:\Users\chao\AndroidStudioProjects\mmm\mmm\build\classes\debug\com\example\mmm\R$string.class
+1426039352648 1081 36fa71bd19586254688835c1db80e95c630f4473 C:\Users\chao\AndroidStudioProjects\mmm\mmm\build\classes\debug\com\example\mmm\NextActivity.class
+1426037364615 1078 6735781e6a594afbbfd9958f5c2ae01d2bf78f51 C:\Users\chao\AndroidStudioProjects\mmm\mmm\build\classes\debug\com\example\mmm\MainActivity.class
+1425974426579 452 e4b5c387c990acf9b581bdea960f97bf19d8ec3f C:\Users\chao\AndroidStudioProjects\mmm\mmm\build\classes\debug\com\example\mmm\R$dimen.class
+1425974400452 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 C:\Users\chao\AndroidStudioProjects\mmm\mmm\libs\android-support-v4.jar
+1426037364633 647 ac61a968996b46ff461fe43ccbc162cb1e73ed1a C:\Users\chao\AndroidStudioProjects\mmm\mmm\build\classes\debug\com\example\mmm\R.class
+1425974426578 331 31b101664a1a0e7c20bd76bc09666708cb1e18e3 C:\Users\chao\AndroidStudioProjects\mmm\mmm\build\classes\debug\com\example\mmm\R$attr.class
+1426037364629 451 2552d6dbc8e13f8943db2f0c8e3d3895853c68f1 C:\Users\chao\AndroidStudioProjects\mmm\mmm\build\classes\debug\com\example\mmm\R$id.class
+1426037364630 431 726ae7d9a379c0352e22c61a424b8134c63a30b7 C:\Users\chao\AndroidStudioProjects\mmm\mmm\build\classes\debug\com\example\mmm\R$layout.class
+1425974426580 398 00d134f3b3b86a7fac736c0cbc3fe27d3a99b990 C:\Users\chao\AndroidStudioProjects\mmm\mmm\build\classes\debug\com\example\mmm\R$drawable.class
+1426037364632 422 8b85a574667c3007027c7594b5fd7f4c851b145f C:\Users\chao\AndroidStudioProjects\mmm\mmm\build\classes\debug\com\example\mmm\R$style.class
+1426039352646 1034 e07f31316a6ecefa1b11ec4292f4afce2d7e6717 C:\Users\chao\AndroidStudioProjects\mmm\mmm\build\classes\debug\com\example\mmm\NextActivity$MyButtonListener1.class
+1426037364631 379 4e0539eecec7a56f4a34589195001d1bb4e3740f C:\Users\chao\AndroidStudioProjects\mmm\mmm\build\classes\debug\com\example\mmm\R$menu.class
+1426037364613 1031 93cdd9fb690242625e79a9a66f13b861cd5511c6 C:\Users\chao\AndroidStudioProjects\mmm\mmm\build\classes\debug\com\example\mmm\MainActivity$MyButtonListener.class

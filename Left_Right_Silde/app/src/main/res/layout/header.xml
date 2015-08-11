@@ -1,0 +1,4 @@
+<include
+    android:id="@+id/item_header"
+    layout="@layout/item_header"
+    xmlns:android="http://schemas.android.com/apk/res/android" />

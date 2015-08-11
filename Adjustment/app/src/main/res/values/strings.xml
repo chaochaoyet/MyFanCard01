@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Adjustment</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">生当作人杰，死亦为鬼雄；</string>
+</resources>

@@ -1,0 +1,28 @@
+<com.chao.cehuacaidan.SlidingMenu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:chao="http://schemas.android.com/apk/res/com.chao.cehuacaidan"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:id="@+id/id_menu"
+
+    android:scrollbars="none"
+    chao:rightPadding="0dp">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal">
+        <include layout="@layout/menu_item"></include>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/qq">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="toggleMenu"
+                android:text="切换菜单"/>
+
+            </LinearLayout>
+        </LinearLayout>
+    </com.chao.cehuacaidan.SlidingMenu>

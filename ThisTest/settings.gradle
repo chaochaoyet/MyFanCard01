@@ -1,0 +1,1 @@
+include ':app', ':samples:SwitchUserSample', ':tests', ':samples:Scrumptious', ':samples:Iconicus', ':samples:RPSSample', ':facebook', ':junitTests', ':samples:HelloFacebookSample', ':samples:MessengerSendSample'

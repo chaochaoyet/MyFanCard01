@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.chao.mrli_sinaweibo" >
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/load"
+        android:label="我的微博"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+
+        <activity
+            android:name=".MainActivity"
+             >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".OAuthActivity" android:launchMode="singleInstance">
+
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"></action>
+                <category android:name="android.intent.category.DEFAULT"></category>
+                <category android:name="android.intent.category.BROWSABLE"></category>
+                <data android:scheme="mrli_sinaweibo" android:host="OAuthActivity"></data>
+            </intent-filter>
+        </activity>
+        <activity android:name=".LoginActivity"></activity>
+        <activity android:name=".HostActivity"></activity>
+        <activity android:name=".LinkmanActivity"></activity>
+        <activity android:name=".MessageActivity"></activity>
+        <activity android:name=".HomeActivity"></activity>
+        <activity android:name=".EditWeioboActivity"></activity>
+        <activity android:name=".MyInfoActivity"></activity>
+        <activity android:name=".WeiboListActivity"></activity>
+    </application>
+
+</manifest>

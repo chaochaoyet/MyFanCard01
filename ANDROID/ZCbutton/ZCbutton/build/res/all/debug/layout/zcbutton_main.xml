@@ -1,0 +1,21 @@
+<LinearLayout xmlns:anroid="http://schemas.android.com/apk/res/android"
+              anroid:layout_height="fill_parent"
+              anroid:layout_width="fill_parent"
+              anroid:orientation="vertical">
+    <TextView
+        anroid:id="@+id/showText"
+        anroid:layout_height="wrap_content"
+        anroid:layout_width="wrap_content"
+        anroid:layout_gravity="center"
+        anroid:text="@string/hello_world"
+        anroid:textSize="30dp"
+        anroid:gravity="center"></TextView>
+    <Button
+        anroid:id="@+id/showbutton"
+        anroid:text="click"
+        anroid:layout_width="wrap_content"
+        anroid:layout_height="wrap_content"
+        anroid:gravity="center"
+        anroid:layout_gravity="center"></Button>
+              </LinearLayout>
+

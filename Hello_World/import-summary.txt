@@ -1,0 +1,51 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .externalToolBuilders\
+* .externalToolBuilders\New_Builder (1).launch
+* default.properties
+* lib\
+* lib\commons-codec.jar
+* lib\commons-httpclient-3.1.jar
+* lib\commons-logging-1.1.jar
+* lib\junit-4.1.jar
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* buttom.PNG => buttom.png
+* AndroidManifest.xml => weiboitcast02\src\main\AndroidManifest.xml
+* assets\ => weiboitcast02\src\main\assets\
+* jni\ => weiboitcast02\src\main\jni\
+* libs\armeabi\libcocos2d.so => weiboitcast02\src\main\jniLibs\armeabi\libcocos2d.so
+* libs\armeabi\libcocosdenshion.so => weiboitcast02\src\main\jniLibs\armeabi\libcocosdenshion.so
+* libs\armeabi\libgame.so => weiboitcast02\src\main\jniLibs\armeabi\libgame.so
+* res\ => weiboitcast02\src\main\res\
+* src\ => weiboitcast02\src\main\java\
+* imageviewer_btn_bg_d.PNG => imageviewer_btn_bg_d.png
+* turn_bg_n.PNG => turn_bg_n.png
+* turn_left.PNG => turn_left.png
+* turn_right.PNG => turn_right.png
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

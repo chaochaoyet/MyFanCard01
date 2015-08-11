@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\chao\Desktop\Edit_Text\Edit_Text\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\chao\Desktop\Edit_Text\Edit_Text\src\debug\assets" />
+    </dataSet>
+
+</merger>

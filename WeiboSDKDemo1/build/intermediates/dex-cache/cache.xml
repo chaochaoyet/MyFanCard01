@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\chao\AndroidStudioProjects\WeiboSDKDemo1\weiboSDKDemo\build\intermediates\exploded-aar\WeiboSDKDemo1\weiboSDK\unspecified\libs\weibosdkcore.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="119e2034c8db764d5742ec1cdbcc4aa6bdf85e7a">
+        <dex dex="C:\Users\chao\AndroidStudioProjects\WeiboSDKDemo1\weiboSDKDemo\build\intermediates\pre-dexed\debug\weibosdkcore-16a358bcb59eafcbb8a2457b55d2f4d458aba9bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\chao\AndroidStudioProjects\WeiboSDKDemo1\weiboSDKDemo\build\intermediates\exploded-aar\WeiboSDKDemo1\weiboSDK\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b3cc989adeaf5db95d404d1efa3f5598df27547f">
+        <dex dex="C:\Users\chao\AndroidStudioProjects\WeiboSDKDemo1\weiboSDKDemo\build\intermediates\pre-dexed\debug\classes-9998dd1807409a4935757d2c0dce08a5d9cc73e6.jar" />
+    </item>
+    <item
+        jar="D:\Eclipse sdk\eclipse sdk\adt-bundle-windows-x86_64-20140321\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\chao\AndroidStudioProjects\WeiboSDKDemo1\weiboSDKDemo\build\intermediates\pre-dexed\debug\support-v4-18.0.0-73c1e42b55f4f0618ee396b7c1024175a2dc2654.jar" />
+    </item>
+
+</items>

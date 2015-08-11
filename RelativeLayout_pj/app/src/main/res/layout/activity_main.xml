@@ -1,0 +1,36 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+    <!--margin 外边框（控件之间）
+       padding 内边框（控件与内容之间）
+       xsxssx-->
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="input"
+        android:id="@+id/text"/>
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text"
+        android:id="@+id/edit"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ok"
+        android:layout_below="@id/edit"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="10px"
+        android:id="@+id/button1"
+        android:layout_marginTop="30px"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="cancel"
+        android:layout_below="@id/edit"
+        android:layout_toLeftOf="@id/button1"
+        android:layout_marginRight="10px"
+        android:layout_marginTop="30px"/>
+    </RelativeLayout>

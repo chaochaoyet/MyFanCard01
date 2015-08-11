@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >Spinner_Hobby
+    </string>
+    <string name="action_settings" >Settings
+    </string>
+    <string name="hello_world" >Hello world!
+    </string>
+    <string name="basketball">篮球</string>
+    <string name="soccerball">足球</string>
+    <string name="baseball">排球</string>
+
+</resources>

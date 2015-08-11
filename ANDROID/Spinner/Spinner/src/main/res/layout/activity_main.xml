@@ -1,0 +1,19 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget28"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/texteview_show"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="你选择的是："
+        android:textSize="25dp"></TextView>
+    <Spinner
+        android:id="@+id/spinner_city"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"></Spinner>
+
+
+    </LinearLayout>

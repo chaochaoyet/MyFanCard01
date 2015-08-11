@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >Toast_test
+    </string>
+    <string name="action_settings" >Settings
+    </string>
+    <string name="hello_world" >Hello world!
+    </string>
+    <string name="dear">亲爱的圣诞老人:</string>
+    <string name="sendmywish">送出我的愿望</string>
+    <string name="yourwish">你的愿望：</string>
+    <string name="hassend">应经送达</string>
+
+</resources>

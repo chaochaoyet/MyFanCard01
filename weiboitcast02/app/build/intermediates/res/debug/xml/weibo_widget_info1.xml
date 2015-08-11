@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider 
+android:minWidth="300.0dip" 
+android:minHeight="72.0dip" 
+android:updatePeriodMillis="0" 
+android:initialLayout="@layout/weibowidget1"
+  xmlns:android="http://schemas.android.com/apk/res/android" /><!-- From: file:/C:/Users/chao/AndroidStudioProjects/weiboitcast02/app/src/main/res/xml/weibo_widget_info1.xml -->

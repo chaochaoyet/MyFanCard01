@@ -1,0 +1,19 @@
+<LinearLayout
+    
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+    <fragment
+        android:name="com.chao.fragmentdemo.FragmentOne"
+        android:id="@+id/frag_one"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"/>
+    <fragment
+        android:name="com.chao.fragmentdemo.FragmentTwo"
+        android:id="@+id/frag_two"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+</LinearLayout>

@@ -1,0 +1,19 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1427367929537 2462 f915c362f848ff7b00eee963c62e1e3560acacf9 C:\Users\chao\Desktop\ListView02\ListView02\build\classes\debug\com\listview02\MainActivity.class
+1427367929564 460 0b3acd8784b33f72601264a6659dfff3ad509b69 C:\Users\chao\Desktop\ListView02\ListView02\build\classes\debug\com\listview02\R$string.class
+1427360597575 449 d9b3afc3d47f15e95ab6880fdffce9f1f335b174 C:\Users\chao\Desktop\ListView02\ListView02\build\classes\debug\com\listview02\R$dimen.class
+1427367929566 637 8c9b95ad8bacc2f0ad0c4939702a60ff6ec8230c C:\Users\chao\Desktop\ListView02\ListView02\build\classes\debug\com\listview02\R.class
+1427367929551 1347 da2259d1c307ae6ba6a8463d79a8b82b1efb5b2f C:\Users\chao\Desktop\ListView02\ListView02\build\classes\debug\com\listview02\personadapter$ViewHolder.class
+1427360576205 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 C:\Users\chao\Desktop\ListView02\ListView02\libs\android-support-v4.jar
+1427367929555 2585 2076429b6f21d506f537d10ad8c6a2fc8b5373a4 C:\Users\chao\Desktop\ListView02\ListView02\build\classes\debug\com\listview02\personadapter.class
+1427367929551 220 d272c97ad977b7fdd3ac4e4d240fc9a968b45403 C:\Users\chao\Desktop\ListView02\ListView02\build\classes\debug\com\listview02\personadapter$1.class
+1427367929561 457 f899203d3eff212a4dcbaf5c4c14274f29913aa7 C:\Users\chao\Desktop\ListView02\ListView02\build\classes\debug\com\listview02\R$id.class
+1427367929565 419 623f85734beb6af51ebad4e6fd3e0b6864016e78 C:\Users\chao\Desktop\ListView02\ListView02\build\classes\debug\com\listview02\R$style.class
+1427360597575 395 dc95f48a87c5d735456ea3dadc9354ffac69c3b2 C:\Users\chao\Desktop\ListView02\ListView02\build\classes\debug\com\listview02\R$drawable.class
+1427367929563 376 556ac3dd17fb42b5d735baae10efa7ab8697e558 C:\Users\chao\Desktop\ListView02\ListView02\build\classes\debug\com\listview02\R$menu.class
+1427360597628 337 ecf6b328a55231c4b58db579be811293cc89e865 C:\Users\chao\Desktop\ListView02\ListView02\build\classes\debug\com\listview02\BuildConfig.class
+1427367929540 1056 3cb2eb9ad3050cd57e283a9f4bbeb2e93d502495 C:\Users\chao\Desktop\ListView02\ListView02\build\classes\debug\itemperson\person.class
+1427360597574 328 93e747d3cdbdfda8d21c3ce3ccf7ca0c1d15216f C:\Users\chao\Desktop\ListView02\ListView02\build\classes\debug\com\listview02\R$attr.class
+1427367929562 391 e8973e47633a8648917e692b8aed3fca130fb1d7 C:\Users\chao\Desktop\ListView02\ListView02\build\classes\debug\com\listview02\R$layout.class

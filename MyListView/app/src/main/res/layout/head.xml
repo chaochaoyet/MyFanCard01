@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff">
+
+
+    <RelativeLayout
+        android:id="@+id/head_contentLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp">
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true" android:id="@+id/frameLayout">
+
+            <ProgressBar
+                android:id="@+id/head_ProgressBar"
+                style="?android:attr/progressBarStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:visibility="gone"/>
+        </FrameLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" android:id="@+id/linearLayout">
+            <TextView
+                android:id="@+id/head_tipsTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="pull to refresh"
+                android:textSize="15dp"/>
+            <TextView
+                android:id="@+id/head_lastUpdatedTextview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~~~~~"
+                android:textSize="12dp"/>
+        </LinearLayout>
+    </RelativeLayout>
+    <ImageView
+        android:id="@+id/head_arrowImageView"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:src="@drawable/arrow_down"
+        android:layout_alignTop="@+id/frameLayout" android:layout_centerHorizontal="true"></ImageView>
+</LinearLayout>
+
+
+

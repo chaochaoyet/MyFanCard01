@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:descendantFocusability="blocksDescendants"
+
+
+    >
+    <TextView
+        android:id="@+id/title_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+      
+      />
+    <TextView
+        android:id="@+id/info"
+        android:textSize="18dip"
+
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/view_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="详情"
+        />
+    <EditText
+        android:layout_width="fill_parent"
+        android:textSize="30dp"
+        android:background="@drawable/border"
+        android:layout_height="wrap_content"
+        android:id="@+id/content"/>
+</LinearLayout>   

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="C:\Users\chao\AndroidStudioProjects\WeiboSDKDemo1\weiboSDKDemo\build\intermediates\exploded-aar\WeiboSDKDemo1\weiboSDK\unspecified\assets"/></dataSet><dataSet config="main"><source path="C:\Users\chao\AndroidStudioProjects\WeiboSDKDemo1\weiboSDKDemo\src\main\assets"/></dataSet><dataSet config="debug"><source path="C:\Users\chao\AndroidStudioProjects\WeiboSDKDemo1\weiboSDKDemo\src\debug\assets"/></dataSet></merger>

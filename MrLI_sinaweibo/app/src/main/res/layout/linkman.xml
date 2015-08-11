@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   >
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal"
+        android:background="@drawable/border">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="返回"
+            android:background="@color/red"
+            android:textSize="30dp"
+            android:layout_margin="20dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:textColor="@color/red"
+            android:layout_margin="20dp"
+            android:text="联系人"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="编辑"
+            android:background="@color/red"
+            android:textSize="30dp"
+            android:layout_margin="20dp"/>
+
+        </LinearLayout>
+   <ListView
+       android:background="@color/white"
+       android:layout_width="fill_parent"
+       android:layout_height="fill_parent"
+       android:id="@+id/linkman_list"></ListView>
+
+</LinearLayout>

@@ -1,0 +1,27 @@
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:stretchColumns="1">
+    <TableRow>
+        <TextView
+            android:text="row1_column1"
+            android:background="#aa0000"
+           />
+        <TextView
+            android:text="row1_column2"
+            android:background="#00aa00"
+            android:gravity="center_horizontal"/>
+        <TextView
+            android:text="row1_column3"
+            android:background="#0000aa"/>
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="row2_column1"
+            android:background="#ffaa3479"/>
+        <TextView
+            android:text="row2_column2"
+            android:background="#ffaa831f"/>
+    </TableRow>
+    </TableLayout>

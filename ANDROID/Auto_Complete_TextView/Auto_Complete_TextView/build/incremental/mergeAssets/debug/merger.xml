@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\chao\Desktop\Auto_Complete_TextView\Auto_Complete_TextView\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\chao\Desktop\Auto_Complete_TextView\Auto_Complete_TextView\src\debug\assets" />
+    </dataSet>
+
+</merger>

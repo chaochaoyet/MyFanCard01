@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/vvass/build/source/aidl/debug" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/vvass/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/vvass/src/main/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/vvass/src/main/assets" />
+      </configuration>
+    </facet>
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":vvass" />
+        <option name="PROJECT_ABSOLUTE_PATH" value="C:\Users\chao\AndroidStudioProjects\vvass" />
+        <option name="GRADLE_HOME_DIR_PATH" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/vvass">
+      <sourceFolder url="file://$MODULE_DIR$/vvass/build/source/r/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/build/source/aidl/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/build/source/rs/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/build/source/buildConfig/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/build/res/rs/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/build/source/r/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/build/source/aidl/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/build/source/rs/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/build/source/buildConfig/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/build/res/rs/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/debug/assets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/debug/jni" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/debug/res" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/debug/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/main/assets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/main/jni" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/main/res" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/instrumentTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/instrumentTest/assets" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/instrumentTest/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/instrumentTest/jni" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/instrumentTest/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/instrumentTest/res" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vvass/src/instrumentTest/resources" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/vvass/build/apk" />
+      <excludeFolder url="file://$MODULE_DIR$/vvass/build/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/vvass/build/bundles" />
+      <excludeFolder url="file://$MODULE_DIR$/vvass/build/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/vvass/build/dependency-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/vvass/build/exploded-bundles" />
+      <excludeFolder url="file://$MODULE_DIR$/vvass/build/incremental" />
+      <excludeFolder url="file://$MODULE_DIR$/vvass/build/libs" />
+      <excludeFolder url="file://$MODULE_DIR$/vvass/build/manifests" />
+      <excludeFolder url="file://$MODULE_DIR$/vvass/build/symbols" />
+      <excludeFolder url="file://$MODULE_DIR$/vvass/build/tmp" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android 4.2.2" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="android-support-v4" level="project" />
+  </component>
+</module>
+

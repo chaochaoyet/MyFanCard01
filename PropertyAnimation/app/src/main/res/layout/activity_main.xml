@@ -1,0 +1,36 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:orientation="vertical">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="拉伸"
+        android:id="@+id/button"/>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal"
+        android:id="@+id/ll">
+        <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text="answer"
+        android:background="@drawable/bg"
+        android:id="@+id/button1"/>
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:text="answer"
+            android:background="@drawable/bg"
+            android:id="@+id/button2"/>
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:text="answer"
+            android:background="@drawable/bg"
+            android:id="@+id/button3"/>
+    </LinearLayout>
+
+    </LinearLayout>

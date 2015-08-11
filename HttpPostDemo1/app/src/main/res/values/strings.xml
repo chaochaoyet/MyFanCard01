@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HttpPostDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook">1411779165818534</string>
+    <string name="twitter">3272461562</string>
+    <string name="googleplus">110507275846445194856</string>
+</resources>

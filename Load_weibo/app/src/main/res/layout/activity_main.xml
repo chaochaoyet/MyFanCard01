@@ -1,0 +1,15 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#ffffff">
+    <include android:id="@+id/title_bar" layout="@layout/top"></include>
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/home_lv"
+        android:fastScrollAlwaysVisible="true"
+        android:focusable="true"></ListView>
+
+    </LinearLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent">
+    <!-- android:unselectedAlpha: 设置未选中的条目的透明度(Alpha)。该值必须是float类型，比如：“1.2”。 -->
+    <Gallery android:layout_width="fill_parent"
+             android:layout_height="wrap_content"
+             android:spacing="10dip"
+             android:unselectedAlpha="10.0"
+             android:id="@+id/gallery"
+             android:layout_marginTop="30dp"/>
+    <ImageSwitcher android:id="@+id/imageSwitcher"
+                   android:layout_width="fill_parent"
+                   android:layout_height="wrap_content"
+                   android:layout_marginTop="30dp" />
+</LinearLayout>
